@@ -18,5 +18,5 @@ Route::get('/', function () {
 });
 
 Route::get('/slider',function (){
-    return
-})
+    return "This is Test for amir Rezaei";
+});
